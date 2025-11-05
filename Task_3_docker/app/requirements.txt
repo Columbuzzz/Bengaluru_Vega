@@ -1,0 +1,13 @@
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
+geopy
+h3==4.0.0b1
+networkx
+osmnx
+shapely
+pyproj
+pyarrow
+fastparquet
